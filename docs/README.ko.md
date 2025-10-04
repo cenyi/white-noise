@@ -30,7 +30,7 @@ SereneSoul는 집중, 이완 및 수면을 위한 고품질 자연 소리를 제
 
 1. 저장소 복제:
    ```bash
-   git clone https://github.com/cenyi/serene-soul.git
+   git clone https://github.com/cenyi/white-noise.git
    ```
 
 2. 의존성 설치:

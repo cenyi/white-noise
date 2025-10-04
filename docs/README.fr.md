@@ -30,7 +30,7 @@ SereneSoul est une application libre et gratuite qui fournit des sons naturels d
 
 1. Clonez le dépôt:
    ```bash
-   git clone https://github.com/cenyi/serene-soul.git
+   git clone https://github.com/cenyi/white-noise.git
    ```
 
 2. Installez les dépendances:

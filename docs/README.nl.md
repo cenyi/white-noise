@@ -30,7 +30,7 @@ SereneSoul is een gratis, open-source applicatie die hoogwaardige natuurlijke ge
 
 1. Kloon de repository:
    ```bash
-   git clone https://github.com/cenyi/serene-soul.git
+   git clone https://github.com/cenyi/white-noise.git
    ```
 
 2. Installeer afhankelijkheden:

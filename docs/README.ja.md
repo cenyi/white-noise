@@ -30,7 +30,7 @@ SereneSoulは、集中、リラックス、睡眠に役立つ高品質な自然�
 
 1. リポジトリをクローン:
    ```bash
-   git clone https://github.com/cenyi/serene-soul.git
+   git clone https://github.com/cenyi/white-noise.git
    ```
 
 2. 依存関係をインストール:
