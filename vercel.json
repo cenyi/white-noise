@@ -3,5 +3,5 @@
   "outputDirectory": ".next",
   "installCommand": "pnpm install",
   "framework": "nextjs",
-  "regions": ["hkg1", "sin1", "nrt1"]
+  "regions": ["hkg1", "sin1"]
 }
