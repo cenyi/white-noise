@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://afunning.com" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">
+    🚀 ライブデモを試す: https://afunning.com
+  </a>
+</div>
+
 # SereneSoul - 集中とリラックスのための自然音 🌿
 
 *100%無料、広告なし、登録不要*

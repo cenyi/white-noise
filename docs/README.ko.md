@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://afunning.com" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">
+    🚀 라이브 데모 체험하기: https://afunning.com
+  </a>
+</div>
+
 # SereneSoul - 집중과 이완을 위한 자연의 소리 🌿
 
 *100% 무료, 광고 없음, 등록 필요 없음*
