@@ -1,7 +1,7 @@
 // Application configuration
 export const APP_CONFIG = {
   // Base URLs
-  BASE_URL: process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000",
+  BASE_URL: process.env.NEXT_PUBLIC_BASE_URL || "https://afunning.com",
   SITE_NAME: process.env.NEXT_PUBLIC_SITE_NAME || "SereneSoul",
   
   // API configuration

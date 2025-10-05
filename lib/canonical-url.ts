@@ -7,7 +7,7 @@ import { type Locale } from '@/lib/i18n/config'
  * @returns Canonical URL without trailing slash
  */
 export function generateCanonicalUrl(path: string, locale: Locale): string {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://afunning.com'
   
   // Remove trailing slash if present (except for root)
   let cleanPath = path === '/' ? path : path.replace(/\/$/, '')
@@ -27,7 +27,7 @@ export function generateCanonicalUrl(path: string, locale: Locale): string {
  * @returns Object with locale keys and canonical URLs
  */
 export function generateAlternateUrls(path: string, locales: readonly Locale[]): Record<string, string> {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://afunning.com'
   const cleanPath = path === '/' ? '' : path.replace(/\/$/, '')
   
   return locales.reduce((acc, locale) => {
