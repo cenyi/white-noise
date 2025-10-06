@@ -22,7 +22,7 @@ SereneSoul ist eine kostenlose, quelloffene Anwendung, die hochwertige natürlic
 - 📚 Lieblingsklänge speichern
 - 📜 Wiedergabeverlauf anzeigen
 - 🎨 Unterstützung für dunkles/helles Theme
-- 🌐 Mehrsprachigkeit (21+ Sprachen)
+- 🌐 Mehrsprachigkeit (14 Sprachen)
 - 🔐 Datenschutzorientierter Ansatz - keine Benutzerdaten werden gesammelt
 - 📱 Responsives Design für alle Geräte
 

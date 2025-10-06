@@ -1,10 +1,13 @@
 export const defaultLocale = 'en' as const
-export const locales = ['en', 'es', 'de', 'fr', 'pt', 'ja', 'ko', 'it', 'nl'] as const
+export const locales = ['en', 'es', 'de', 'fr', 'pt', 'ja', 'ko', 'it', 'nl', 'en-AU', 'en-IE', 'en-NZ', 'nb-NO', 'hr-HR'] as const
 
 export type Locale = typeof locales[number]
 
 export const localeNames: Record<Locale, { name: string; nativeName: string; flag: string }> = {
   en: { name: 'English', nativeName: 'English', flag: '🇺🇸' },
+  'en-AU': { name: 'English (Australia)', nativeName: 'English', flag: '🇦🇺' },
+  'en-IE': { name: 'English (Ireland)', nativeName: 'English', flag: '🇮🇪' },
+  'en-NZ': { name: 'English (New Zealand)', nativeName: 'English', flag: '🇳🇿' },
   es: { name: 'Spanish', nativeName: 'Español', flag: '🇪🇸' },
   de: { name: 'German', nativeName: 'Deutsch', flag: '🇩🇪' },
   fr: { name: 'French', nativeName: 'Français', flag: '🇫🇷' },
@@ -13,6 +16,8 @@ export const localeNames: Record<Locale, { name: string; nativeName: string; fla
   ko: { name: 'Korean', nativeName: '한국어', flag: '🇰🇷' },
   it: { name: 'Italian', nativeName: 'Italiano', flag: '🇮🇹' },
   nl: { name: 'Dutch', nativeName: 'Nederlands', flag: '🇳🇱' },
+  'nb-NO': { name: 'Norwegian', nativeName: 'Norsk', flag: '🇳🇴' },
+  'hr-HR': { name: 'Croatian', nativeName: 'Hrvatski', flag: '🇭🇷' },
 }
 
 export function isValidLocale(locale: string): locale is Locale {

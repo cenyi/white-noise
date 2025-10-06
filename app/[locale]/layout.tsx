@@ -61,6 +61,9 @@ export default function LocaleLayout({ children, params }: LocaleLayoutProps) {
 export function generateStaticParams() {
   return [
     { locale: 'en' },
+    { locale: 'en-AU' },
+    { locale: 'en-IE' },
+    { locale: 'en-NZ' },
     { locale: 'es' },
     { locale: 'de' },
     { locale: 'fr' },
@@ -69,5 +72,7 @@ export function generateStaticParams() {
     { locale: 'ko' },
     { locale: 'it' },
     { locale: 'nl' },
+    { locale: 'nb-NO' },
+    { locale: 'hr-HR' },
   ]
 }

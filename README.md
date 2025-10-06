@@ -12,7 +12,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-Deutsch | English | [Español](./docs/README.es.md) | [Français](./docs/README.fr.md) | [Italiano](./docs/README.it.md) | [日本語](./docs/README.ja.md) | [한국어](./docs/README.ko.md) | [Nederlands](./docs/README.nl.md) | [Português](./docs/README.pt.md)
+Deutsch | English | Español | Français | Hrvatski | Italiano | 日本語 | 한국어 | Nederlands | Norsk bokmål | Português
 
 </div>
 
@@ -26,7 +26,7 @@ SereneSoul is a free, open-source application that provides high-quality natural
 - 📚 Save favorite sounds
 - 📜 View playback history
 - 🎨 Dark/light theme support
-- 🌐 Multilingual support (9 languages)
+- 🌐 Multilingual support (14 languages)
 - 🔐 Privacy-first approach - no user data collected
 - 📱 Responsive design for all devices
 

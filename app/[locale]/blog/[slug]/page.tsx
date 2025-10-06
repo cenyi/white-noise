@@ -84,7 +84,7 @@ export default function LocaleBlogArticlePage({ params }: LocaleBlogArticlePageP
 }
 
 export function generateStaticParams() {
-  const locales = ['en', 'es', 'de', 'fr', 'pt', 'ja', 'ko', 'it', 'nl']
+  const locales = ['en', 'en-AU', 'en-IE', 'en-NZ', 'es', 'de', 'fr', 'pt', 'ja', 'ko', 'it', 'nl', 'nb-NO', 'hr-HR']
   const params = []
 
   for (const locale of locales) {

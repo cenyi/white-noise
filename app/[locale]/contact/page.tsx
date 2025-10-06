@@ -42,7 +42,9 @@ export default function LocaleContactPage({ params }: LocaleContactPageProps) {
 
 export function generateStaticParams() {
   return [
-    { locale: 'en' }, { locale: 'es' }, { locale: 'de' }, { locale: 'fr' },
-    { locale: 'pt' }, { locale: 'ja' }, { locale: 'ko' }, { locale: 'it' }, { locale: 'nl' },
+    { locale: 'en' }, { locale: 'en-AU' }, { locale: 'en-IE' }, { locale: 'en-NZ' },
+    { locale: 'es' }, { locale: 'de' }, { locale: 'fr' }, { locale: 'pt' },
+    { locale: 'ja' }, { locale: 'ko' }, { locale: 'it' }, { locale: 'nl' },
+    { locale: 'nb-NO' }, { locale: 'hr-HR' },
   ]
 }
