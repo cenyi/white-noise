@@ -22,7 +22,7 @@ SereneSoul is een gratis, open-source applicatie die hoogwaardige natuurlijke ge
 -📚 Bewaar favoriete geluiden
 -📜 Bekijk afspeelgeschiedenis
 -🎨 Donker/licht thema ondersteuning
-- 🌐 Meertalige ondersteuning (21+ talen)
+- 🌐 Meertalige ondersteuning (14 talen)
 - 🔐 Privacy-first aanpak - geen gebruikersgegevens verzameld
 - 📱 Responsief ontwerp voor alle apparaten
 

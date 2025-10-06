@@ -22,7 +22,7 @@ SereneSoul é uma aplicação gratuita e de código aberto que fornece sons natu
 - 📚 Guardar sons favoritos
 - 📜 Ver histórico de reprodução
 - 🎨 Suporte para tema claro/escuro
-- 🌐 Suporte multilíngue (21+ idiomas)
+- 🌐 Suporte multilíngue (14 idiomas)
 - 🔐 Abordagem centrada na privacidade - não são recolhidos dados de utilizador
 - 📱 Design responsivo para todos os dispositivos
 
