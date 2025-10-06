@@ -104,6 +104,16 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die Datei [LIZENZ](..
 
 Wenn Sie auf Probleme stoßen oder Vorschläge zur Verbesserung haben, öffnen Sie bitte ein Issue auf GitHub oder kontaktieren Sie uns über die Anwendung.
 
+## Unterstützen Sie uns
+
+❤️ **Gefällt Ihnen SereneSoul?** Unterstützen Sie unsere Arbeit, um dieses Projekt kostenlos und werbefrei zu halten! Ihre Unterstützung hilft uns bei der Wartung und Verbesserung der Anwendung, dem Hinzufügen neuer Klänge und der Zugänglichmachung für mehr Menschen weltweit.
+
+<a href="https://www.buymeacoffee.com/moca" style="display: inline-block; padding: 12px 24px; background: #FFDD00; color: #000000; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; margin: 8px 0; box-shadow: 0 2px 8px rgba(255, 221, 0, 0.3);">
+    ☕ Kaufen Sie uns einen Kaffee
+</a>
+
+Jeder Kaffee hilft uns dabei, uns auf die Schaffung des besten Entspannungserlebnisses für Sie zu konzentrieren! 🌿
+
 ## Danksagungen
 
 - Erstellt mit [Next.js](https://nextjs.org/)

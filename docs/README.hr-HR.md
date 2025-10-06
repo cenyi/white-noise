@@ -109,6 +109,16 @@ Ovaj projekt je licenciran pod MIT Licencom - pogledajte datoteku [LICENSE](../L
 
 Ako naiđete na bilo kakve probleme ili imate prijedloge za poboljšanja, molimo otvorite issue na GitHubu ili nas kontaktirajte kroz aplikaciju.
 
+## Podržite nas
+
+❤️ **Sviđa vam se SereneSoul?** Razmislite o podršci našeg rada kako biste zadržali ovaj projekt besplatan i bez oglasa! Vaša podrška pomaže nam održavati i poboljšavati aplikaciju, dodavati nove zvukove i činiti je dostupnom više ljudi diljem svijeta.
+
+<a href="https://www.buymeacoffee.com/moca" style="display: inline-block; padding: 12px 24px; background: #FFDD00; color: #000000; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; margin: 8px 0; box-shadow: 0 2px 8px rgba(255, 221, 0, 0.3);">
+    ☕ Kupite nam kavu
+</a>
+
+Svaka kava pomaže nam da se usredotočimo na stvaranje najboljeg iskustva opuštanja za vas! 🌿
+
 ## Zahvale
 
 - Izgrađeno s [Next.js](https://nextjs.org/)

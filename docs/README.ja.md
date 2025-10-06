@@ -104,6 +104,16 @@ SereneSoulへの貢献を歓迎します！バグ修正、新規サウンドの�
 
 問題が発生した場合や改善提案がある場合は、GitHubでIssueを開くか、アプリケーションからお問い合わせください。
 
+## 私たちをサポート
+
+❤️ **SereneSoulはお気に入りですか？** このプロジェクトを無料で広告なしで維持するために、私たちの取り組みをサポートしてください！あなたのサポートは、アプリケーションの維持と改善、新しい音の追加、世界中のより多くの人々にアクセス可能にすることを助けます。
+
+<a href="https://www.buymeacoffee.com/moca" style="display: inline-block; padding: 12px 24px; background: #FFDD00; color: #000000; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; margin: 8px 0; box-shadow: 0 2px 8px rgba(255, 221, 0, 0.3);">
+    ☕ コーヒーをご馳走してください
+</a>
+
+コーヒー一杯一杯が、あなたのために最高のリラックス体験を作り続けるための集中力を私たちに与えてくれます！🌿
+
 ## 謝辞
 
 - [Next.js](https://nextjs.org/)で構築

@@ -1,4 +1,7 @@
 import en from "./i18n/en.json";
+import enAU from "./i18n/en-AU.json";
+import enIE from "./i18n/en-IE.json";
+import enNZ from "./i18n/en-NZ.json";
 import fr from "./i18n/fr.json";
 import de from "./i18n/de.json";
 import es from "./i18n/es.json";
@@ -7,6 +10,8 @@ import ja from "./i18n/ja.json";
 import ko from "./i18n/ko.json";
 import it from "./i18n/it.json";
 import nl from "./i18n/nl.json";
+import nbNO from "./i18n/nb-NO.json";
+import hrHR from "./i18n/hr-HR.json";
 import { type Locale, locales, localeNames } from "./i18n/config";
 
 // Legacy support
@@ -28,6 +33,9 @@ export type TranslationKey = keyof typeof en
 
 const translations = {
   en,
+  'en-AU': enAU,
+  'en-IE': enIE,
+  'en-NZ': enNZ,
   fr,
   de,
   es,
@@ -36,6 +44,8 @@ const translations = {
   ko,
   it,
   nl,
+  'nb-NO': nbNO,
+  'hr-HR': hrHR,
 };
 
 export function getTranslation(locale: string, key: TranslationKey): string {

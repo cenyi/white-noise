@@ -109,6 +109,16 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 If you encounter any issues or have suggestions for improvements, please open an issue on GitHub or contact us through the application.
 
+## Support Us
+
+❤️ **Enjoying SereneSoul?** Consider supporting our work to keep this project free and ad-free! Your support helps us maintain and improve the application, add new sounds, and make it accessible to more people worldwide.
+
+<a href="https://www.buymeacoffee.com/moca" style="display: inline-block; padding: 12px 24px; background: #FFDD00; color: #000000; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; margin: 8px 0; box-shadow: 0 2px 8px rgba(255, 221, 0, 0.3);">
+    ☕ Buy Me a Coffee
+</a>
+
+Every coffee helps us stay focused on creating the best relaxation experience for you! 🌿
+
 ## Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)

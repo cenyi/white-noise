@@ -12,7 +12,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-Deutsch | English | Español | Français | Hrvatski | Italiano | 日本語 | 한국어 | Nederlands | Norsk bokmål | Português
+<a href="docs/README.de.md">Deutsch</a> | <a href="docs/README.en.md">English</a> | <a href="docs/README.en-AU.md">English (AU)</a> | <a href="docs/README.en-IE.md">English (IE)</a> | <a href="docs/README.en-NZ.md">English (NZ)</a> | <a href="docs/README.es.md">Español</a> | <a href="docs/README.fr.md">Français</a> | <a href="docs/README.hr-HR.md">Hrvatski</a> | <a href="docs/README.it.md">Italiano</a> | <a href="docs/README.ja.md">日本語</a> | <a href="docs/README.ko.md">한국어</a> | <a href="docs/README.nl.md">Nederlands</a> | <a href="docs/README.nb-NO.md">Norsk bokmål</a> | <a href="docs/README.pt.md">Português</a>
 
 </div>
 
