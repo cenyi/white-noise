@@ -64,25 +64,25 @@ export function FAQSection() {
 
   return (
     <section id="faq" className="py-24">
-<div className="container mx-auto px-4">
-<div className="text-center mb-16">
-<h2 className="text-3xl sm:text-4xl font-bold mb-4 text-balance">{t("faq.title")}</h2>
-<p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">
+      <div className="container mx-auto px-4">
+        <div className="text-center mb-16">
+          <h2 className="text-3xl sm:text-4xl font-bold mb-4 text-balance">{t("faq.title")}</h2>
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">
             {t("faq.description")}
-</p>
+          </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
           {faqItems.map((item, index) => (
-<Card key={index} className="border-0 bg-card/50 backdrop-blur h-full">
+            <Card key={index} className="border-0 bg-card/50 backdrop-blur h-full">
               <div className="p-6">
-<h3 className="font-medium text-lg mb-3 text-balance">{item.question}</h3>
-<p className="text-muted-foreground text-pretty leading-relaxed">{item.answer}</p>
+                <h3 className="font-medium text-lg mb-3 text-balance">{item.question}</h3>
+                <p className="text-muted-foreground text-pretty leading-relaxed">{item.answer}</p>
               </div>
-</Card>
+            </Card>
           ))}
         </div>
-</div>
+      </div>
     </section>
   )
 }

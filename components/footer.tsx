@@ -86,22 +86,22 @@ export function Footer() {
 
           <div className="flex items-center gap-2">
             {/* Buy Me A Coffee Button */}
-            <a href={t("footer.buyMeACoffee.url")} target="_blank" rel="noopener noreferrer">
-              <img 
-                src="https://cdn.buymeacoffee.com/buttons/default-orange.png" 
-                alt={t("footer.buyMeACoffee.alt")} 
+            <a href={t("footer.buyMeACoffee.url")} target="_blank" rel="noopener noreferrer nofollow" className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground transition-colors">
+              <img
+                src="https://cdn.buymeacoffee.com/buttons/default-orange.png"
+                alt={t("footer.buyMeACoffee.alt")}
                 className="h-8 w-auto"
               />
             </a>
             
             <Button variant="ghost" size="icon" className="h-8 w-8" asChild>
-              <Link href={t("footer.github.url")} target="_blank" rel="noopener noreferrer">
+              <Link href={t("footer.github.url")} target="_blank" rel="noopener noreferrer nofollow">
                 <Github className="h-4 w-4" />
                 <span className="sr-only">{t("footer.social.github")}</span>
               </Link>
             </Button>
             <Button variant="ghost" size="icon" className="h-8 w-8" asChild>
-              <Link href={t("footer.twitter.url")} target="_blank" rel="noopener noreferrer">
+              <Link href={t("footer.twitter.url")} target="_blank" rel="noopener noreferrer nofollow">
                 <Twitter className="h-4 w-4" />
                 <span className="sr-only">{t("footer.social.twitter")}</span>
               </Link>

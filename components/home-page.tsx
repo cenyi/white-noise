@@ -12,7 +12,7 @@ import { TrustSection } from "@/components/TrustSection"
 import { useLanguage } from "@/contexts/language-context"
 
 export function HomePage() {
-  const { t } = useLanguage()
+  const { t, locale } = useLanguage()
 
   return (
     <div className="min-h-screen">
@@ -163,22 +163,22 @@ export function HomePage() {
                 <p>
                   {t("seo.content.section3.p1")}
                 </p>
-                
+
                 <h3 className="text-xl font-semibold mt-8">{t("seo.content.section3.sub2")}</h3>
                 <p>
                   {t("seo.content.section3.p2")}
                 </p>
-                
+
                 <h3 className="text-xl font-semibold mt-8">{t("seo.content.section3.sub3")}</h3>
                 <p>
                   {t("seo.content.section3.p3")}
                 </p>
-                
+
                 <h3 className="text-xl font-semibold mt-8">{t("seo.content.section3.sub4")}</h3>
                 <p>
                   {t("seo.content.section3.p4")}
                 </p>
-                
+
                 <h3 className="text-xl font-semibold mt-8">{t("seo.content.section3.sub5")}</h3>
                 <p>
                   {t("seo.content.section3.p5")}

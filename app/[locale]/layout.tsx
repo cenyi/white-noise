@@ -5,6 +5,7 @@ import { LanguageProvider } from '@/contexts/language-context'
 import { Navigation } from '@/components/navigation'
 import { Footer } from '@/components/footer'
 import { generateCanonicalUrl, generateAlternateUrls } from '@/lib/canonical-url'
+import { WebSiteSchema, OrganizationSchema } from '@/components/structured-data'
 import type { Metadata } from 'next'
 
 interface LocaleLayoutProps {
@@ -39,15 +40,22 @@ export async function generateMetadata({ params }: { params: { locale: string } 
   }
 }
 
-export default function LocaleLayout({ children, params }: LocaleLayoutProps) {
+export default async function LocaleLayout({ children, params }: LocaleLayoutProps) {
   // Validate locale
   if (!isValidLocale(params.locale)) {
     notFound()
   }
 
+  const locale = params.locale as Locale
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://afunning.com'
+
   return (
     <LanguageProvider>
       <div className="min-h-screen flex flex-col">
+        {/* 结构化数据 */}
+        <WebSiteSchema locale={locale} siteUrl={siteUrl} />
+        <OrganizationSchema siteUrl={siteUrl} locale={locale} />
+
         <Navigation />
         <main className="flex-1">
           {children}

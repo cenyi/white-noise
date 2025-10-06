@@ -74,7 +74,7 @@ export function TrustSection() {
 
         <div className="mt-12 text-center">
           <Button variant="outline" asChild>
-            <a href={t("trust.github.url")} target="_blank" rel="noopener noreferrer">
+            <a href={t("trust.github.url")} target="_blank" rel="noopener noreferrer nofollow">
               {t("trust.viewSource")}
             </a>
           </Button>
